@@ -21,7 +21,6 @@ L’application gère une liste de films projetés dans une salle de cinéma.
 Chaque film est caractérisé par :
 - Un identifiant unique
 - Un titre
-- Un réalisateur
 - Une année de sortie
 - Un genre
 - Une durée en minutes
@@ -35,7 +34,7 @@ Chaque film est caractérisé par :
    Sélectionnez l’ensemble des colonnes pour tous les films enregistrés dans la base.
 
 2. **Afficher uniquement les titres et les réalisateurs**  
-   Affichez uniquement les colonnes `titre` et `realisateur`.
+   Affichez uniquement les colonnes `titre` et `genre`.
 
 3. **Afficher les films sortis après 2010**  
    Affichez tous les films dont l’année de sortie est postérieure à 2010.
@@ -58,7 +57,6 @@ Chaque film est caractérisé par :
 9. **Ajouter un nouveau film**  
    Insérez un film avec les informations suivantes :  
    - Titre : `Your Name`  
-   - Réalisateur : `Makoto Shinkai`  
    - Année de sortie : `2016`  
    - Genre : `Animation`  
    - Durée : `106` minutes
