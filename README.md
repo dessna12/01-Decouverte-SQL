@@ -40,8 +40,8 @@ Chaque film est caractérisé par :
 3. **Afficher les films sortis après 2010**  
    Affichez tous les films dont l’année de sortie est postérieure à 2010.
 
-4. **Afficher les films réalisés par Christopher Nolan**  
-   Sélectionnez les films dont le réalisateur est exactement *Christopher Nolan*.
+4. **Afficher les films qui contiennent la chaîne de caractère 'in'**  
+   Sélectionnez les films qui contiennent 'IN' dans leur titre.
 
 5. **Afficher uniquement les films de genre "Comédie"**  
    Affichez tous les films dont le genre est "Comédie".
